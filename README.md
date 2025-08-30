@@ -16,6 +16,7 @@ Page Object Model (POM): Padrão de design para organizar o código de testes de
 
 A estrutura de pastas segue a abordagem do Page Object Model para separar os seletores e as ações das páginas do fluxo de teste principal.
 
+```bash
 /cypress
 ├── e2e
 │ └── PageObject.cy.js // Arquivo de teste que executa o fluxo de compra
@@ -34,6 +35,7 @@ A estrutura de pastas segue a abordagem do Page Object Model para separar os sel
 ├── package-lock.json
 ├── package.json
 └── README.md
+```
 
 ## Funcionalidades Testadas
 
@@ -87,3 +89,7 @@ npx cypress run - Este comando executa o teste em modo "headless" (sem interface
 ## Contribuições
 
 Sinta-se à vontade para abrir uma issue ou um pull request para sugerir melhorias, correções ou novas funcionalidades.
+
+```
+
+```
