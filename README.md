@@ -28,12 +28,12 @@ A estrutura de pastas segue a abordagem do Page Object Model para separar os sel
 ├── screenshots
 ├── support
 ├── videos
-├── README.md
 ├── node_modules
 ├── cypress.config.js
 ├── LICENCE
 ├── package-lock.json
-└── package.json
+├── package.json
+└── README.md
 
 ## Funcionalidades Testadas
 
